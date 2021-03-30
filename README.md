@@ -8,4 +8,4 @@ I build websites using React, Gatsby JS, Headless CMS' (Prismic), Styled-Compone
 
 I'm currently applying for roles as a Front-End Developer in Auckland, New Zealand. I also freelance via [Lodestone Studio](https://lodestone.studio). 
 
-If you'd like to learn more, check out my CV at [https://jasontcrabtree.com/jason-crabtree-resume.pdf](https://jasontcrabtree.com/jason-crabtree-resume.pdf)
+If you'd like to learn more, [Read my CV (PDF)](https://jasontcrabtree.com/jason-crabtree-resume.pdf)
